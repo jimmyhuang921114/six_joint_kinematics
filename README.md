@@ -3,7 +3,7 @@
 ## 專案檔案
 
 - `kinematics.py`：完整版範例
-- `kinematics_sample.py`：教學骨架版
+- `kinematics_sample.py`：教學版
 - `requirements.txt`：Python 套件需求
 - `.env.example`：環境變數範例
 
@@ -37,21 +37,6 @@ python kinematics_sample.py
 
 - `numpy`
 - `matplotlib`
-
-`math` 是 Python 內建模組，不需要額外安裝。
-
-## 注意事項
-
-
-```text
-project/
-├── kinematics.py
-├── kinematics_2024.py
-├── kinematics_sample.py
-├── requirements.txt
-├── .env.example
-└── README.md
-```
 
 ## 快速開始
 
